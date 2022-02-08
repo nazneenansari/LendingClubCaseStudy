@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+- Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. It contains approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -46,7 +45,7 @@ Give credit here.
 ## Contact
 Created by 
 - Nazneen Ansari [@nazneenansari]
-- Chetan Desai [@]
+- Chetan Desai [@MrChetanDesai]
 
 
 <!-- Optional -->
