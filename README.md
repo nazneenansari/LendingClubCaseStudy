@@ -11,7 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+  # Problem Statement
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+  # Dataset
 - Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. It contains approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
 
 
@@ -36,11 +38,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- References : https://www.lendingclub.com/foliofn/rateDetail.action
 
 ## Contact
 Created by 
