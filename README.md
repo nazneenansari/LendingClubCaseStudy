@@ -11,9 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-  # Problem Statement
+  #### Problem Statement
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
-  # Dataset
+ #### Dataset
 - Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. It contains approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
 
 
@@ -42,8 +42,9 @@
 
 ## Contact
 Created by 
-- Nazneen Ansari [@nazneenansari]
 - Chetan Desai [@MrChetanDesai]
+- Nazneen Ansari [@nazneenansari]
+
 
 
 <!-- Optional -->
