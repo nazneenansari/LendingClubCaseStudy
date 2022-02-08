@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, we develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 
 ## Table of Contents
@@ -28,9 +28,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy - version 1.20.3
+- Pandas - version 1.3.4
+- Seaborn - version 0.11.2
+- Matplotlib - version 3.4.3
+- Pandas Profiling - version 3.1.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +44,9 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by 
+- Nazneen Ansari [@nazneenansari]
+- Chetan Desai [@]
 
 
 <!-- Optional -->
