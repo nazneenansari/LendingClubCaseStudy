@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, we develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+  This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, we develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 
 ## Table of Contents
@@ -12,9 +12,10 @@
 
 ## General Information
   #### Problem Statement
-- The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+The lending company facilitates personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. However, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+Thus, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment before approving any loan application.
  #### Dataset
-- Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. It contains approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
+Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. The given dataset contains the information about past loan applicants and whether they ‘defaulted’ or not.It contains all the approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -38,7 +39,13 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- References : https://www.lendingclub.com/foliofn/rateDetail.action
+- References
+  1. https://www.lendingclub.com/foliofn/rateDetail.action
+  2. https://pandas.pydata.org/docs/
+  3. https://numpy.org/doc/stable/
+  4. https://seaborn.pydata.org/
+  5. https://matplotlib.org/
+  6. https://github.com/pandas-profiling/pandas-profiling
 
 ## Contact
 Created by 
