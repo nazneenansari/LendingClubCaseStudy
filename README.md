@@ -21,10 +21,14 @@ Dataset contains the complete loan data for all loans issued through the time pe
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loans with funded amount between 0-5k & loans with borrowers annual income between 30k-45k needs to be verified.
+- Borrowers with high open to total account ratio and interest rate (~12.5%) for the loan term of 36 months, tend to default, hence need to be monitored.
+- Borrowers with 10+ years and less than 1 year of work experience with annual income in the range of 45k-60k and 15k-45k respectively, and funded amount 5k-10k and 0-5k respectively, tend to default, hence to be asked to submit some security against the loan.
+- Citizens from California who borrowed loan for debt consolidation need to be watched.
+- The borrowers with grade B and sub-grade B5 are tend to be Charged Off more.
+- People having rented home tend to charged off, followed by ones having home ownership as Mortgage.
+- Account holders with high open to total account ratio with funded loan amount of 0-5k and an annual income of 0-15k are more prone to miss their repayment on time.
+- The maximum number of Charged Off loans are in the DTI (debt-toincome) range of 12-18. Loans which are Not Verified in the DTI range of 12-18 tend to Charged Off.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
