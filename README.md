@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+  This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, we develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 
 ## Table of Contents
@@ -11,10 +11,12 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+  #### Problem Statement
+The lending company facilitates personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. However, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+Thus, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment before approving any loan application.
+ #### Dataset
+Dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. The given dataset contains the information about past loan applicants and whether they ‘defaulted’ or not.It contains all the approved loan data with customer information and customer behaviorial data. There is no transactional history of those applicants whose loan is rejected by the company and so this data is not available with the company (and thus in this dataset).
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +30,28 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy - version 1.20.3
+- Pandas - version 1.3.4
+- Seaborn - version 0.11.2
+- Matplotlib - version 3.4.3
+- Pandas Profiling - version 3.1.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- References
+  1. https://www.lendingclub.com/foliofn/rateDetail.action
+  2. https://pandas.pydata.org/docs/
+  3. https://numpy.org/doc/stable/
+  4. https://seaborn.pydata.org/
+  5. https://matplotlib.org/
+  6. https://github.com/pandas-profiling/pandas-profiling
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by 
+- Chetan Desai [@MrChetanDesai]
+- Nazneen Ansari [@nazneenansari]
+
 
 
 <!-- Optional -->
